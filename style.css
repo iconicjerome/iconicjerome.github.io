@@ -1,0 +1,108 @@
+body{
+  font-family: 'Bree Serif', serif;
+}
+
+.intro{
+  background-image: url(images/book2.jpg);
+  background-size:cover;
+  color: #fff;
+  text-align: center;
+  line-height: 4.0;
+  margin: 0 0 0 0;
+  height: 500px;
+}
+#features{
+padding-top: 70px;
+  text-align: center;
+  height: 300px;
+  margin: 0 auto 0 auto;
+  background-color: #FBEEC1;
+}
+
+.navbar-brand{
+  color: #fff;
+  font-family: 'Bree Serif', serif;
+}
+
+.navbar-brand:hover{
+  color: #D4A59A;
+}
+
+.nav-link{
+  color: #fff;
+  font-family: 'Bree Serif', serif;
+}
+.nav-link:hover{
+color: #D4A59A;
+}
+
+.searchbox input[type=text]{
+  padding: 2px;
+  font-size: 15px;
+  border: 1px solid grey;
+  border-radius: 50px;
+  width: 30%;
+  height: 40px;
+  background: #f1f1f1
+}
+.btn {
+  -webkit-border-radius: 21;
+  -moz-border-radius: 21;
+  border-radius: 21px;
+  text-shadow: 1px 1px 3px #666666;
+  font-family: Arial;
+  color: #fff;
+  font-size: 18px;
+  background: #D4A59A;
+  padding: 7px 20px 7px 20px;
+  border: solid #D4A59A 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #fff;
+  text-decoration: none;
+  color: #D4A59A;
+}
+
+.container.cont-1{
+  width: 50%;
+}
+
+.testimonials{
+
+  text-align: left;
+}
+
+.test-1{
+  margin-bottom: 20px;
+}
+
+.image-1{
+  height: 200px;
+  width: 200px;
+float: left;
+}
+
+.image-2{
+  height: 200px;
+  width: 200px;
+float: right;
+
+}
+
+.contact{
+  margin-top: 100px;
+  text-align: center;
+}
+.fab{
+  margin: 10px auto auto 10px;
+  color: #fff;
+}
+
+.contact{
+  background-color: #272727;
+  height: 200px;
+  color: #fff;
+  line-height: 3;
+}
